@@ -53,12 +53,19 @@
     <UnityVersion>2022.3.5f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\tank.cs" />
+    <Compile Include="Assets\nucleo.cs" />
     <Compile Include="Assets\Script\PlayerView.cs" />
     <Compile Include="Assets\Script\Spawner.cs" />
+    <Compile Include="Assets\bombaspawn.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\murorompible.cs" />
+    <Compile Include="Assets\torreta.cs" />
+    <Compile Include="Assets\bala.cs" />
     <Compile Include="Assets\Script\Bullet.cs" />
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\FollowTarget.cs" />
+    <Compile Include="Assets\bomba.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.xml" />

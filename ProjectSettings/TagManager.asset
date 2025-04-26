@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - bomba
+  - tanque
+  - nucleo
+  - bala
+  - muros
+  - bombspawn
   layers:
   - Default
   - TransparentFX
